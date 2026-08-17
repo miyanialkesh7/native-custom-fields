@@ -1,4 +1,4 @@
-=== Native Custom Fields - Custom Content Types and Meta Fields ===
+=== Native Custom Fields ===
 Contributors: arkenon
 Tags: custom fields, fields, meta, repeater, ncf
 Requires at least: 6.9
